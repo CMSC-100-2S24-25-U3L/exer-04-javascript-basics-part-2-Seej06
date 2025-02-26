@@ -1,4 +1,4 @@
-const test = require('./test.js');
+const test = require('./index.js');
 
 console.log(test.generateUniqueID("Alan", "Turing"))
 console.log(test.addAccount(["Alan", "Turing", "aturing@w3c.com", 58]));
